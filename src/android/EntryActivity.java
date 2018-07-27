@@ -19,7 +19,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 
-import xu.li.cordova.wechat.Wechat;
+import adam.cordova.wechat.Wechat;
 
 /**
  * Created by xu.li<AthenaLightenedMyPath@gmail.com> on 9/1/15.

@@ -1,4 +1,4 @@
-package xu.li.cordova.wechat;
+package adam.cordova.wechat;
 
 import android.content.Context;
 import android.os.Environment;
