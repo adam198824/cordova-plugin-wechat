@@ -88,7 +88,7 @@
 
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="Wechat">
-                <param name="android-package" value="adam.cordova.wechat.Wechat"/>
+                <param name="android-package" value="xu.li.cordova.wechat.Wechat"/>
             </feature>
             <preference name="WECHATAPPID" value="$WECHATAPPID"/>
         </config-file>

@@ -1,8 +1,7 @@
 //
 //  CDVWechat.m
-//  cordova-plugin-wechat
+//  cordova-plugin-adam-wechat
 //
-//  Created by xu.li on 12/23/13.
 //
 //
 
@@ -20,7 +19,7 @@ static int const MAX_THUMBNAIL_SIZE = 320;
         self.wechatAppId = appId;
         [WXApi registerApp: appId];
         
-        NSLog(@"cordova-plugin-wechat has been initialized. Wechat SDK Version: %@. APP_ID: %@.", [WXApi getApiVersion], appId);
+        NSLog(@"cordova-plugin-adam-wechat has been initialized. Wechat SDK Version: %@. APP_ID: %@.", [WXApi getApiVersion], appId);
     }
 }
 

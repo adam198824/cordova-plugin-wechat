@@ -1,4 +1,4 @@
-package adam.cordova.wechat;
+package xu.li.cordova.wechat;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -43,9 +43,9 @@ import java.io.InputStream;
 
 public class Wechat extends CordovaPlugin {
 
-    public static final String TAG = "Cordova.Plugin.Wechat";
+    public static final String TAG = "Cordova.Plugin.Adam.Wechat";
 
-    public static final String PREFS_NAME = "Cordova.Plugin.Wechat";
+    public static final String PREFS_NAME = "Cordova.Plugin.Adam.Wechat";
     public static final String WXAPPID_PROPERTY_KEY = "wechatappid";
 
     public static final String ERROR_WECHAT_NOT_INSTALLED = "未安装微信";

@@ -1,6 +1,6 @@
 //
 //  CDVWechat.h
-//  cordova-plugin-wechat
+//  cordova-plugin-adam-wechat
 //
 //  Created by xu.li on 12/23/13.
 //

@@ -92,7 +92,6 @@ Wechat.share({
 
 ## Send payment request
 ```Javascript
-// See https://github.com/xu-li/cordova-plugin-wechat-example/blob/master/server/payment_demo.php for php demo
 var params = {
     appid:'1233',// appId
     partnerid: '10000100', // merchant id
