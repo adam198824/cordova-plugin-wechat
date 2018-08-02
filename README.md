@@ -11,7 +11,7 @@ Share title, description, image, and link to wechat moment(朋友圈)，choose i
 
 # Install
 
-1. ```cordova plugin add cordova-plugin-adam-wechat  --variable wechatappid=YOUR_WECHAT_APPID```, or using [plugman](https://npmjs.org/package/plugman), [phonegap](https://npmjs.org/package/phonegap), [ionic](http://ionicframework.com/)
+1. ```ionic cordova plugin add cordova-plugin-adam-wechat  --variable wechatappid=YOUR_WECHAT_APPID```, or using [plugman](https://npmjs.org/package/plugman), [phonegap](https://npmjs.org/package/phonegap), [ionic](http://ionicframework.com/)
 
 2. ```cordova build ios``` or ```cordova build android```
 
